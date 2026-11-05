@@ -6,7 +6,7 @@ require (
 	github.com/AtomiCloud/diene.go-core-utils v1.0.0
 	github.com/AtomiCloud/diene.go-errors-problems v1.0.0
 	github.com/AtomiCloud/diene.go-interfaces v1.0.2
-	github.com/MicahParks/jwkset v0.11.0
+	github.com/MicahParks/jwkset v0.11.4
 	github.com/golang-jwt/jwt/v5 v5.3.1
 )
 
